@@ -48,7 +48,7 @@ SuperMarketManagement/ │ ├── Forms/ # All UI forms like Dashboard, Login
 
 ## 🎥 Video
 
-Uploading Recording 2025-04-08 160827.mp4…
+
 
 
 ## 📫 Contact
