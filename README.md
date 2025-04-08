@@ -46,11 +46,10 @@ SuperMarketManagement/ │ ├── Forms/ # All UI forms like Dashboard, Login
 - Multi-user role access (Admin, Cashier, etc.)
 - UI/UX improvements
 
-## 📷 Screenshots
-![image](https://github.com/user-attachments/assets/a1673cc3-c8ea-4d38-8f19-83d41b8697ee)
+## 🎥 Video
 
+Uploading Recording 2025-04-08 160827.mp4…
 
----
 
 ## 📫 Contact
 
