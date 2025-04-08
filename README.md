@@ -50,6 +50,7 @@ SuperMarketManagement/ │ ├── Forms/ # All UI forms like Dashboard, Login
 ![image](https://github.com/user-attachments/assets/5ecd1f5b-1bce-4b03-ac29-65d80e856310)
 ![image](https://github.com/user-attachments/assets/3c3f1207-f24f-454d-a55a-bc712a8e239d)
 ![image](https://github.com/user-attachments/assets/1abd26bf-cf25-455f-ac4e-c003fc0104da)
+![image](https://github.com/user-attachments/assets/0599591c-22dd-438f-b044-c7822e5d5465)
 ![image](https://github.com/user-attachments/assets/5b383032-b850-439d-af9f-01c28935f80f)
 ![image](https://github.com/user-attachments/assets/e2874795-50c1-461f-93b8-2bc1cb797777)
 ![image](https://github.com/user-attachments/assets/fd1b2831-eb5d-473f-8db8-a7d4b155f52f)
