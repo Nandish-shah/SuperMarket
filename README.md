@@ -47,8 +47,8 @@ SuperMarketManagement/ │ ├── Forms/ # All UI forms like Dashboard, Login
 - UI/UX improvements
 
 ## 📷 Screenshots
+![image](https://github.com/user-attachments/assets/a1673cc3-c8ea-4d38-8f19-83d41b8697ee)
 
-> Include GUI screenshots here after project completion (optional)
 
 ---
 
